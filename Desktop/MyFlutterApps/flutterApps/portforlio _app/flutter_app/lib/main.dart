@@ -35,7 +35,7 @@ class HelloWorldApp extends StatelessWidget {
                   alignment: Alignment.center,
                   margin: EdgeInsets.all(20),
                   child: Text(
-                    'I am a flutter developer. I work carefully to build mobile '
+                    'I am a flutter developer. I build mobile '
                     'apps that meet my clients needs and generate the right traffics; '
                     'adding good user experience.',
                     textDirection: TextDirection.ltr,
